@@ -1,0 +1,92 @@
+{
+  "character_standard": "Personagem masculino padrão P90, roupa preta, três etapas por exercício",
+  "format": "Imagem individual WebP em alta qualidade: posição inicial, movimento, posição final",
+  "gym": [
+    {
+      "slug": "supino-reto",
+      "image": "/media/exercises/academia/supino-reto.webp"
+    },
+    {
+      "slug": "supino-inclinado-halteres",
+      "image": "/media/exercises/academia/supino-inclinado-halteres.webp"
+    },
+    {
+      "slug": "crucifixo-maquina",
+      "image": "/media/exercises/academia/crucifixo-maquina.webp"
+    },
+    {
+      "slug": "triceps-corda",
+      "image": "/media/exercises/academia/triceps-corda.webp"
+    },
+    {
+      "slug": "puxada-frontal",
+      "image": "/media/exercises/academia/puxada-frontal.webp"
+    },
+    {
+      "slug": "remada-baixa",
+      "image": "/media/exercises/academia/remada-baixa.webp"
+    },
+    {
+      "slug": "rosca-direta",
+      "image": "/media/exercises/academia/rosca-direta.webp"
+    },
+    {
+      "slug": "agachamento-livre",
+      "image": "/media/exercises/academia/agachamento-livre.webp"
+    },
+    {
+      "slug": "leg-press",
+      "image": "/media/exercises/academia/leg-press.webp"
+    },
+    {
+      "slug": "stiff",
+      "image": "/media/exercises/academia/stiff.webp"
+    },
+    {
+      "slug": "desenvolvimento-halteres",
+      "image": "/media/exercises/academia/desenvolvimento-halteres.webp"
+    },
+    {
+      "slug": "elevacao-lateral",
+      "image": "/media/exercises/academia/elevacao-lateral.webp"
+    }
+  ],
+  "home": [
+    {
+      "slug": "flexao-braco",
+      "image": "/media/exercises/casa/flexao-braco.webp"
+    },
+    {
+      "slug": "agachamento-corporal",
+      "image": "/media/exercises/casa/agachamento-corporal.webp"
+    },
+    {
+      "slug": "afundo",
+      "image": "/media/exercises/casa/afundo.webp"
+    },
+    {
+      "slug": "prancha",
+      "image": "/media/exercises/casa/prancha.webp"
+    },
+    {
+      "slug": "abdominal-crunch",
+      "image": "/media/exercises/casa/abdominal-crunch.webp"
+    },
+    {
+      "slug": "elevacao-pelvica",
+      "image": "/media/exercises/casa/elevacao-pelvica.webp"
+    },
+    {
+      "slug": "triceps-banco",
+      "image": "/media/exercises/casa/triceps-banco.webp"
+    },
+    {
+      "slug": "remada-toalha",
+      "image": "/media/exercises/casa/remada-toalha.webp"
+    },
+    {
+      "slug": "mountain-climber",
+      "image": "/media/exercises/casa/mountain-climber.webp"
+    }
+  ]
+}
